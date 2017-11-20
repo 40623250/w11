@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/feeds/course.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623250/doc/trunk/blog/</id><updated>2017-11-19T11:00:00+08:00</updated><entry><title>2017 Fall CP 第十週</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cp-w10.html" rel="alternate"></link><published>2017-11-19T11:00:00+08:00</published><updated>2017-11-19T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-11-19:/40623250/doc/trunk/blog/40623250-2017-fall-cp-w10.html</id><summary type="html">&lt;p&gt;W10&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W10&lt;/p&gt;
+
+
+&lt;h3&gt;軟體下載&lt;/h3&gt;
+&lt;p&gt;Dia pottable、GIMP Portable、PCT Creo 4&lt;/p&gt;
+&lt;p&gt;修改隨身系統,使其開啟時個人Leo也開啟&lt;/p&gt;
+&lt;p&gt;*1.將star.bat拉進SciTE修改,將REM及\apps刪除,並將資料夾改成正確的.&lt;/p&gt;
+&lt;p&gt;*2.將launchLeo.py拉進SciTE修改,將()內輸入正確的資料夾順序.&lt;/p&gt;
+&lt;p&gt;用 Eric6 完成計算機對話框所需按鍵的配置, 使用格點佈局, 設定 Dialog, pressButton 與 lineEdit 物件的尺寸大小, 命名物件, 設定 clicked 與 connect 方法.&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>第九週期中心得</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cp-w9.html" rel="alternate"></link><published>2017-11-05T11:00:00+08:00</published><updated>2017-11-05T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-11-05:/40623250/doc/trunk/blog/40623250-2017-fall-cp-w9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;影片操作&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241397179" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241397179"&gt;2017-11-05_23-46-59&lt;/a&gt; from &lt;a href="https://vimeo.com/user73417402"&gt;湯峻傑&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第八週學習心得</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-w8-exam.html" rel="alternate"></link><published>2017-11-02T11:40:00+08:00</published><updated>2017-11-02T11:40:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-11-02:/40623250/doc/trunk/blog/40623250-w8-exam.html</id><summary type="html">&lt;p&gt;for 迴圈用法與 Python 的縮排規定及Eric6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;for 迴圈用法與 Python 的縮排規定及Eric6&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/240276651" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240276651"&gt;-機械設計工程系-計算機程式-40623250&lt;/a&gt; from &lt;a href="https://vimeo.com/user73417402"&gt;湯峻傑&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/241018965" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241018965"&gt;-機械設計工程系-計算機程式-40623250&lt;/a&gt; from &lt;a href="https://vimeo.com/user73417402"&gt;湯峻傑&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;學習for 迴圈用法與 Python 的縮排規定及Eric6,雖然還處於摸索階段,但可以從錯誤中學習,這樣學習成效是不錯的,總而言之努力學!&lt;/p&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;
+&lt;p&gt;自評分數:65&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="w8"></category><category term="exam"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-w7-exam.html" rel="alternate"></link><published>2017-10-28T11:00:00+08:00</published><updated>2017-10-28T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-10-28:/40623250/doc/trunk/blog/40623250-w7-exam.html</id><summary type="html">&lt;p&gt;w7-exam&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w7-exam&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/240276651" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240276651"&gt;-機械設計工程系-計算機程式-40623250&lt;/a&gt; from &lt;a href="https://vimeo.com/user73417402"&gt;湯峻傑&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;一開始學fossil的指令都開不懂也不懂該用的時機,只能跟著大家怎麼做就怎麼做,學python一竅不通學的蠻痛苦的,但經過蠻多次的練習慢慢懂到底在做甚麼東西,學會維護網誌、錄製影片...等,在這幾周真心覺得學了不少東西,收穫良益。&lt;/p&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;
+&lt;p&gt;每週出席情況:90&lt;/p&gt;
+&lt;p&gt;紙本筆記:65&lt;/p&gt;
+&lt;p&gt;隨身碟內容:70&lt;/p&gt;
+&lt;p&gt;個人倉儲內容:65&lt;/p&gt;
+&lt;p&gt;各週上課摘要:65&lt;/p&gt;
+&lt;p&gt;自評分數:65&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="w7"></category><category term="exam"></category></entry><entry><title>2017 Fall CADP 第六週</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w6.html" rel="alternate"></link><published>2017-10-16T11:00:00+08:00</published><updated>2017-10-16T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-10-16:/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w6.html</id><summary type="html">&lt;p&gt;一到六周總複習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;一到六周總複習&lt;/p&gt;
+
+
+&lt;p&gt;從最原始的 fossil init 在伺服器建立倉儲開始, 說明如何建立網誌與投影片架構.&lt;/p&gt;
+&lt;p&gt;在伺服器中以 fossil init cpb.fossil 建立倉儲&lt;/p&gt;
+&lt;p&gt;瀏覽器端就可以透過 https://cpb.kmol.info/cpb 連結此一倉儲, 並且以對應密碼登入管理&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CP 第五週</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w5.html" rel="alternate"></link><published>2017-10-09T11:00:00+08:00</published><updated>2017-10-09T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-10-09:/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w5.html</id><summary type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W5 PyQt5&lt;/p&gt;
+</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>網際 Brython 3.3.4 程式執行環境 第四週</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w4.html" rel="alternate"></link><published>2017-10-02T11:00:00+08:00</published><updated>2017-10-02T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-10-02:/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w4.html</id><summary type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Brython 程式環境可以用來練習許多 Python3 的簡單語法, 也可以納入 Javascript 程式庫, 利用 Ajax 模式結合網際瀏覽器與伺服器上的資源解決協同產品設計流程上的問題.&lt;/p&gt;
+
+
+&lt;h3&gt;利用以下的編輯器執行 Python3 程式&lt;/h3&gt;
+&lt;p&gt;在 Firefox 中, 以 Preferences - General - Downloads 選擇 "Always ask me where to save files"&lt;/p&gt;
+&lt;p&gt;在 Chrome 中, 以 Settings - Advanced - Downloads 選擇 Ask where to save each file before downloading&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第三週 - Fossil SCM &amp; 網誌及投影片</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w3.html" rel="alternate"></link><published>2017-09-25T11:00:00+08:00</published><updated>2017-09-25T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-09-25:/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w3.html</id><summary type="html">&lt;p&gt;截至本週, 各學員的 Fossil SCM 倉儲已經可以透過 Wiki 儲存各週數位筆記, 並利用 Files 中的 Pelican Blog 與 Reveal.js 投影片架構, 提供各週詳細的學習報告. 使用 Fossil SCM 管理各學員的網誌與投影片的目的, 在建立往後進行協同設計所需的基本架構.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;截至本週, 各學員的 Fossil SCM 倉儲已經可以透過 Wiki 儲存各週數位筆記, 並利用 Files 中的 Pelican Blog 與 Reveal.js 投影片架構, 提供各週詳細的學習報告. 使用 Fossil SCM 管理各學員的網誌與投影片的目的, 在建立往後進行協同設計所需的基本架構.&lt;/p&gt;
+
+
+&lt;h4&gt;設計組態管理&lt;/h4&gt;
+&lt;p&gt;組態 (Configuration) 為組成內容與狀態的配置, 因此軟體組態管理 (SCM, Software Configuration Management) 就是針對軟體開發過程, 有關組成內容與狀態配置的管理.&lt;/p&gt;
+&lt;p&gt;由於機械設計主要在表達其固體、流體與軟體元件間的互動配置, 且可交付內容包含口語、文字、2D、3D、數學與實體表達資料, 因此機械設計流程中採用組態管理系統的目的, 就是希望參與機械設計的所有成員, 利用組態管理工具, 有效管理設計過程中所衍生的各種資料內容與配置, 並完整呈現各設計階段的歷程與狀態, 以方便追蹤設計變更並據以持續改進.&lt;/p&gt;
+&lt;p&gt;學習要點:&lt;/p&gt;
+&lt;p&gt;如何維護 Fossil SCM Wiki 內容 如何 clone 倉儲, 如何 open 倉儲 如何在近端利用 Leo Editor 維護並檢視網誌及投影片 如何利用網際投影片呈現六種表達資料 如何利用網誌呈現六種表達資料&lt;/p&gt;
+&lt;h3&gt;Solvespace Nutcracker 零組件繪圖&lt;/h3&gt;
+&lt;p&gt;學習如何在工作平面中繪製 2D 機構模擬圖&lt;/p&gt;
+&lt;p&gt;學習如何在不同工作面中, 繪製 2D 輪廓, 進行實體長出或除料&lt;/p&gt;
+&lt;p&gt;學習如何切換繪圖群組 (Group), 修改各階段繪圖內容, 完成所需的零組件&lt;/p&gt;
+&lt;p&gt;學習如何繪製旋轉長出實體&lt;/p&gt;
+&lt;p&gt;學習如何建立新的工作平面&lt;/p&gt;
+&lt;p&gt;學習如何利用點線面約束, 將實體零組件與 2D 機構模擬圖結合, 完成平面連桿機構運動模擬, 並輸出特定點的運動軌跡&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第二週</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-09-20:/40623250/doc/trunk/blog/40623250-2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+
+
+&lt;p&gt;二乙上課內容&lt;/p&gt;
+&lt;p&gt;希望為每位學員建立倉儲的設想流程如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;各學員可以獨立維護倉儲內容, 也可以在總管理員的權限下, 為分組學員建立帳號, 逐步導入協同設計&lt;/li&gt;
+&lt;li&gt;各學員的倉儲以修課班級命名伺服器, 以學號命名倉儲, 方便依照此一規律擷取各學員的倉儲頁面.&lt;/li&gt;
+&lt;li&gt;各學員能以電子郵件收到與新建倉儲相關的連結, 以及帳號密碼.&lt;/li&gt;
+&lt;li&gt;必須擴增 Ubuntu ulimits -n 同時開檔的設限範圍 (內定只允許同時開啟 1024 個檔案)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解決方案:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主機名稱可以透過 domain dns 中的 CNAME 別名方式處理, 因為目前所能提供出來的 IPv4/IPv6 雙支援主機, 之前已經都設定了符號名稱.&lt;/li&gt;
+&lt;li&gt;fossil init 雖然提供指定管理者的 -A 選項功能, 但是無法直接指定管理者對應密碼, 因此必須建立倉儲之後, 再利用 fossil user 修改密碼, 之後再利用 Gmail 寄出通知信, 其中提供倉儲連結, 登入帳號與密碼等資訊.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;建立各學員倉儲檔案的程式如下, 如前所述, 主要透過兩個 Fossil SCM 指令完成, 在 Windows 採用 Fossil SCM 2.3 版建立所有 .fossil 倉儲時, 將同時以 email 通知各學員. 各學員的 .fossil 檔案再以 sftp 送到伺服主機對應帳號所屬的目錄下. 必須要特別注意的是, 採用 Fossil SCM 2.3 版所建立的 .fossil 倉儲檔案, 在 Ubuntu 操作系統上也必須採用相同版本的 fossil, 否則舊版 fossil 可能無法開啟新版 fossil 程式所建立的倉儲檔.&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+import os
+import string
+import random
+# 使用 Gmail 寄信必須導入下列模組
+import smtplib
+import re
+from email.mime.text import MIMEText  
+from email.header import Header
+
+# 用來以亂數建立密碼的韓式
+def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
+    '''
+    source: https://stackoverflow.com/questions/2257441/random-string-generation-with-upper-case-letters-and-digits-in-python
+    '''
+    return ''.join(random.choice(chars) for _ in range(size))
+
+# 讀取學員名單, 逐一取得學員學號, 學員名單, 檢查點 1/7
+student_data = open("2017fall_list/1b.txt").read()
+student_list = student_data.splitlines()
+
+# 利用 gmail smtp 功能寄信
+server = smtplib.SMTP('smtp.gmail.com:587')
+server.ehlo()
+server.starttls()
+# 以下必須準備好對應郵件帳號與密碼的外部檔案, 所提供的寄信帳號, 是否可以寄信, 檢查點 2/7
+'''
+寄信之前必須到 https://www.google.com/settings/security/lesssecureapps 修改權限, 改為較低安全權限
+否則無法使用程式寄信!
+'''
+# 從外部檔案讀取要用來寄信的 gmail 帳號與密碼
+# mail.txt 格式為: 電子郵箱,對應密碼, 以逗點隔開, 檢查點 3/7
+email_data = open("z:/2017fall/mail.txt").read()
+email, email_password= email_data.split(",")
+print(email, email_password)
+# 是否登入所提供寄信的電子郵箱, 4/7
+server.login(email, email_password)
+# 不同課程名稱, 與對應主機名稱, 必須配合修改 5/7
+course_title = "計算機程式"
+fossil_server = "cpb.kmol.info"
+
+for student_num in student_list:
+    username = student_num
+    repository = username + '.fossil'
+    # 利用所提供的字串, 以亂數組成六個字元的密碼
+    password = id_generator(6, "23456789abcdef")
+    print(student_num, ", " , password)
+
+    # 執行 dos command 指令, 建立倉儲
+    os.system("fossil init -A " +username + " " + repository)
+    print("已經建立倉儲 " + repository)
+
+    # 執行 dos command 指令, 修改使用者密碼
+    os.system("fossil user password " + username + " " + password + " -R " + repository)
+    print("已經修改密碼")
+
+    # 利用 Gmail 寄信, 告知各學員倉儲連結與帳號密碼
+    # 每一位學員收到的 output 都從這裡 reset
+    output = ""
+    # 若學號欄為空, 則不寄信
+    if student_num != "":
+        # output 為寄給每一位學員的資料表格
+        mail_content = student_num+' 您好: &lt;br /&gt;&lt;br /&gt; 您在 '+course_title+' 課程中的區域網路倉儲: &lt;a href="https://'+fossil_server+'/'+student_num+'"&gt;https://'+fossil_server+'/'+student_num+'&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;'
+        mail_content += '管理帳號為:'+ student_num + '&lt;br /&gt; 管理密碼為: '+ password+'&lt;br /&gt;&lt;br /&gt;'
+        print(student_num)
+        print(mail_content)
+        # 至此 mail_content 已經確定
+        # 在測試與實際寄送資料, 也必須配合修改, 檢查點  6/7
+        receiver_email = student_num + "@gm.nfu.edu.tw"
+        # 測試用
+        #receiver_email = student_num+"@mde.tw"
+        # 列出收信人 email 位址
+        #print(receiver_email)
+        #message= MIMEText(mail_content,'plain','UTF-8')
+        # 以 html 格式寄信
+        message= MIMEText(mail_content,'html','UTF-8')
+        message['Subject'] = Header(course_title+" Fossil SCM 帳號通知", 'UTF-8') 
+        # 可以先不寄信, 確定格式正確後再開啟, 是否實際寄出信件, 檢查點 7/7
+        server.sendmail("gmail_address", receiver_email, message.as_string())
+server.quit()
+&lt;/pre&gt;
+
+&lt;p&gt;各班所完成的主機:&lt;/p&gt;
+&lt;p&gt;二甲電腦輔助設計實習: &lt;a href="https://cadpa.kmol.info"&gt;https://cadpa.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二乙電腦輔助設計實習: &lt;a href="https://cadpb.kmol.info"&gt;https://cadpb.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一甲計算機程式: &lt;a href="https://cpa.kmol.info"&gt;https://cpa.kmol.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一乙計算機程式: &lt;a href="https://cpb.kmol.info"&gt;https://cpb.kmol.info&lt;/a&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CP 第一週</title><link href="https://cpb.kmol.info/40623250/doc/trunk/blog/40623250-2017-fall-cp-w1.html" rel="alternate"></link><published>2017-09-11T11:00:00+08:00</published><updated>2017-09-11T11:00:00+08:00</updated><author><name>40623250</name></author><id>tag:cpb.kmol.info,2017-09-11:/40623250/doc/trunk/blog/40623250-2017-fall-cp-w1.html</id><summary type="html">&lt;p&gt;課堂筆記&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;課堂筆記&lt;/p&gt;
+
+
+&lt;h3&gt;機械設計:&lt;/h3&gt;
+&lt;p&gt;由固體,液體,軟體組成&lt;/p&gt;
+&lt;h3&gt;六種表達:&lt;/h3&gt;
+&lt;p&gt;1.口語&lt;/p&gt;
+&lt;p&gt;2.文字&lt;/p&gt;
+&lt;p&gt;3.2D&lt;/p&gt;
+&lt;p&gt;4.3D&lt;/p&gt;
+&lt;p&gt;5.量化&lt;/p&gt;
+&lt;p&gt;6.實體&lt;/p&gt;
+&lt;h3&gt;創造力:&lt;/h3&gt;
+&lt;p&gt;1.自學力&lt;/p&gt;
+&lt;p&gt;2.執行力&lt;/p&gt;
+&lt;p&gt;3.想像力&lt;/p&gt;
+&lt;h3&gt;程式:&lt;/h3&gt;
+&lt;p&gt;程: 流程&lt;/p&gt;
+&lt;p&gt;式: 一定的格式&lt;/p&gt;
+&lt;p&gt;Ctrl+A(全選)&lt;/p&gt;
+&lt;p&gt;Ctrl+C(複製)&lt;/p&gt;
+&lt;p&gt;Ctrl+V(貼上)&lt;/p&gt;
+&lt;p&gt;Ctrl+E(放大)&lt;/p&gt;
+&lt;p&gt;interpret(解譯)&lt;/p&gt;
+&lt;p&gt;compiler(編譯)&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry></feed>
